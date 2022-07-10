@@ -1,8 +1,8 @@
-# Thank you to everyone for contributing and helping to make this Hacktoberfest 2021 project possible!
+# Thank you to everyone for contributing and helping to make this project possible!
 This project is now closed and will no longer be accepting new pull requests. 
 Please stay-tuned, I will be creating more beginner-friendly projects to help build your open-source contribution skills. 
 
-![Screenshot 2021-10-14 081222](https://user-images.githubusercontent.com/46421126/137315003-d82fdc2d-2ccd-46c2-8859-69120f1a1652.png)
+#Azure linl:https://mango-field-08b7ec210.1.azurestaticapps.net/
 
 # Jatin Cupcakes
 Website design for a fictional bakery: Jatin Cupcakes. 
