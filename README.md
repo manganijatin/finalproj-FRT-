@@ -1,8 +1,8 @@
 # Thank you to everyone for contributing and helping to make this project possible!
-This project is now closed and will no longer be accepting new pull requests. 
-Please stay-tuned, I will be creating more beginner-friendly projects to help build your open-source contribution skills. 
+ 
 
 #Azure link:https://mango-field-08b7ec210.1.azurestaticapps.net/
+
 ![image_2022-07-10_22-07-38](https://user-images.githubusercontent.com/78365925/178153759-f76c9f25-91aa-43e1-916b-98f558e5befe.png)
 
 
