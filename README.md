@@ -9,7 +9,7 @@
 # Jatin Cupcakes
 Website design for a fictional bakery: Jatin Cupcakes. 
 
-This is a great place to practice CSS, HTML, and contributing to open source and #Hacktoberfest! Please read through the documentation carefully before contributing. 
+I have created this website using HTML & CSS
 
 ## Design
 The design system is created to be both flexible... and strict. 
